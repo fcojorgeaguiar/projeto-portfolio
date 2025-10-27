@@ -273,6 +273,10 @@ footer a:hover{
      top: 65px;
   }
 
+  section#ficha span{
+    display: none;
+  }
+
   section#detalhes{
       grid-column: 3/4;
   }
